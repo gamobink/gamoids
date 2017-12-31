@@ -1,0 +1,20 @@
+{
+    "games":[
+        {
+            "icon":"blockslover",
+            "id":"com.gamobink.block.slover"
+        },
+        {
+            "icon":"catchdiamond",
+            "id":"com.gamobink.catchdiamond"
+        },
+        {
+            "icon":"sharpconnect",
+            "id":"com.gamobink.sharp.connect"
+        },
+        {
+            "icon":"ninjarun",
+            "id":"com.gamobink.ninja.jungle.flip.run"
+        }
+    ]
+}
