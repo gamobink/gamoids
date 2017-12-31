@@ -16,5 +16,9 @@
             "icon":"ninjarun",
             "id":"com.gamobink.ninja.jungle.flip.run"
         }
+		{
+            "icon":"tosstheball",
+            "id":"com.gamobink.toss.ball"
+        }
     ]
 }
